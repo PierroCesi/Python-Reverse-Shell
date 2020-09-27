@@ -1,5 +1,5 @@
 import socket
-from reverse import *
+from cmd import *
 
 ip = "localhost"
 port = 12800
